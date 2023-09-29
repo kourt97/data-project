@@ -1,6 +1,6 @@
 # data-project
 
-__We are given a dataset containing Liquor Sales in the State of Iowa in USA between 2012-2020 and we are asked to find the most popular item per zipcodeand the percentage of sales per store in the period between 2016-2019. We are asked to visualize the Data in a matplotlib format.__
+__We are given a dataset containing Liquor Sales in the State of Iowa in USA between 2012-2020 and we are asked to find the most popular item per zipcode and the percentage of sales per store in the period between 2016-2019. We are asked to visualize the Data in a matplotlib format.__
 
 
 
